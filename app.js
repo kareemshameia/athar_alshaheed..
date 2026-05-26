@@ -715,7 +715,7 @@ function renderSettings() {
         <div class="settings-app-icon"><img src="./app_icon.png" alt=""/></div>
         <div class="settings-app-name">أثر الشهيد</div>
         <div class="settings-app-desc">صدقة جارية لروح الشهيد عبد الرحمن محيسن</div>
-        <div class="settings-app-ver">الإصدار 1.0.0</div>
+        <div class="settings-app-ver">الإصدار 1.0.1</div>
       </div>
 
       <!-- Developer credit -->
